@@ -22,9 +22,9 @@ stabilization properties of LTR dynamics and how they are related to
 goal-driven selective attention, multistability and its relationship
 with declarative memory, and bifurcations and oscillations and their
 role in modeling seizure dynamics in epilepsy.'
-date: To appear
+date: 2025
 venue: 'Control Systems Magazine'
-# paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
