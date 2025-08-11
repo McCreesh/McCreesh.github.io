@@ -3,8 +3,8 @@ title: "Linear-Threshold Network Models for Describing and Analyzing Brain Dynam
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 'To appear'
+excerpt: '**M. McCreesh**, E. Nozari, and J. Cortes'
+date:
 venue: 'Control Systems Magazine'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
