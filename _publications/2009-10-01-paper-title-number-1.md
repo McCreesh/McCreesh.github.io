@@ -2,7 +2,7 @@
 title: "Linear-Threshold Network Models for Describing and Analyzing Brain Dynamics"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: 
 excerpt: '**M. McCreesh**, E. Nozari, and J. Cortes'
 date: 2025-01-01
 venue: 'Control Systems Magazine'
